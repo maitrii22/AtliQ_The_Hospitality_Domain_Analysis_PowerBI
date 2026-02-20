@@ -91,8 +91,9 @@ This project demonstrates real-world business intelligence implementation using 
 ---
 
 ## 📷 Dashboard Overview
+<img width="1231" height="740" alt="image" src="https://github.com/user-attachments/assets/71b3e387-c8c8-4884-accf-a892dd1d3485" />
 
-![Hospitality Dashboard](https://github.com/maitrii22/AtliQ_The_Hospitality_Domain_Analysis_PowerBI/commit/61e58965fdac21a3938cce59d38cc8eb65e4900d#diff-79f219201e016ce9948e8d996fc3e0107f575d40a6a0eebacbdfd8dfd5326f6e)
+
 ---
 ## 🔗 Live Interactive Dashboard
 
